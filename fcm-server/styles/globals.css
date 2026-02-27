@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* { transition: background-color .25s ease, color .25s ease, border-color .25s ease; }
+body { font-family: Inter, ui-sans-serif, system-ui; }
+
+.font-signature-1 { font-family: 'Brush Script MT', cursive; }
+.font-signature-2 { font-family: 'Lucida Handwriting', cursive; }
+.font-signature-3 { font-family: 'Segoe Script', cursive; }
+.font-signature-4 { font-family: 'Snell Roundhand', cursive; }
+.font-signature-5 { font-family: 'URW Chancery L', cursive; }
+.font-signature-6 { font-family: 'Comic Sans MS', cursive; }
+.font-signature-7 { font-family: 'Apple Chancery', cursive; }
+.font-signature-8 { font-family: 'Monotype Corsiva', cursive; }
+.font-signature-9 { font-family: 'Dancing Script', cursive; }
+.font-signature-10 { font-family: 'Kaushan Script', cursive; }

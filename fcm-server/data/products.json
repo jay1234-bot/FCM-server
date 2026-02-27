@@ -1,0 +1,9 @@
+[
+  {"barcode":"8901030899120","name":"Organic Basmati Rice 5kg","price":42.5,"tax":5},
+  {"barcode":"8901207031305","name":"Cold Pressed Olive Oil 1L","price":18.75,"tax":12},
+  {"barcode":"8906009452529","name":"Wireless Mouse Pro","price":25.0,"tax":18},
+  {"barcode":"4006381333931","name":"Notebook A5 Premium","price":6.2,"tax":5},
+  {"barcode":"9780201379624","name":"USB-C Fast Charger 45W","price":31.0,"tax":18},
+  {"barcode":"5012345678900","name":"Noise Cancelling Headphones","price":126.0,"tax":18},
+  {"barcode":"6291041500213","name":"Smart LED Bulb","price":12.4,"tax":12}
+]
